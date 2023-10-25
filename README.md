@@ -96,4 +96,11 @@ dexi.pth 모델의 경우 해당 링크에서 다운로드 받을 수 있습니�
 ```
 https://drive.google.com/drive/folders/11TQxJjpBoZVKcQ0Pmb6GH3h0qQk4CnNe
 ```
+실행 방법은 간단합니다.
+
+1. Unity 프로젝트를 로딩 후 빌드한다. 이 때, Unity 버전은 다음과 같다.(2021.3.19.f1)
+2. ultimate.py 를 실행 후 모델이 로딩될 때 까지 기다린다.
+3. 빌드 된 Unity 시뮬레이터의 Start 버튼을 클릭한다.
+
+해당 과정을 통하여, YOLO/Airline을 이용하여 이미지 프로세싱을 하고 해당 정보를 통해 자율주행하는 도장로봇을 시뮬레이션 할 수 있습니다.
 
