@@ -22,7 +22,11 @@
 
 ### 3.1. 전체 시스템 구성도
 
-![시스템 구성도](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/4167b124-ae19-4a86-95cf-91e6d54292cd)
+<img width="460" alt="image" src="https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/4167b124-ae19-4a86-95cf-91e6d54292cd">
+
+### 3.2. 하부 도장 영상 처리 과정
+
+<img width="720" alt="image" src="https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/69db59a0-b2e6-404b-9678-8bdb5539c85c">
 
 ## 4. 소개 및 시연 영상
 
