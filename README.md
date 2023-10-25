@@ -24,9 +24,20 @@
 
 <img width="480" alt="image" src="https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/4167b124-ae19-4a86-95cf-91e6d54292cd">
 
+ - Unity와 Python의 소켓 통신을 기반으로 한다.
+
 ### 3.2. 하부 도장 영상 처리 과정
 
 <img width="720" alt="image" src="https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/69db59a0-b2e6-404b-9678-8bdb5539c85c">
+
+1. 로봇에 있는 4개의 카메라를 이용해 도장면 하부를 촬영한다.
+2. 상하좌우 4개의 이미지를 각각 Calibration한다.
+3. 4개의 이미지를 하나의 이미지로 Stitching 한다.
+4. 직선 검출을 위해 이미지에 Airline Model을 적용한다.
+5. 제어 신호의 필요한 직선만 검출하기 위해 YOLOv8 모델을 적용한다.
+6. YOLO의 bounding box를 기반으로 기준선을 탐지한다.
+7. 정확한 직선 검출을 위해 직선의 noise를 제거한다.
+8. 도장 로봇 제어에 필요한 정보들을 출력한다.
 
 ### 3.3. 도장 로봇의 제어 신호 처리 과정
 
