@@ -12,7 +12,7 @@
 |---|---|------|
 | 김정호 |201824451@pusan.ac.kr| • Unity 시뮬레이션 구현 </br> • 소켓 통신 구현 </br> • Unity 신호 제어 구현|
 | 정제영 |aia1235@pusan.ac.kr| • 데이터 수집 및 전처리 </br> • YOLO 모델 학습 및 적용 </br> • YOLO 데이터 증강 및 성능 개선|
-| 최성렬 |littie123@naver.com| • Around view 구현 </br> • Edge detection 모델 적용 및 성능 개선 </br> • 직선 검출 알알고리즘 구현|
+| 최성렬 |littie123@naver.com| • Around view 구현 </br> • Edge detection 모델 적용 및 성능 개선 </br> • 직선 검출 알고리즘 구현|
 
 ## 3. 시스템 구성도
 
