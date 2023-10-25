@@ -14,7 +14,7 @@
 
 ### 3. 시스템 구성도
 
-![시스템 구성도](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/4167b124-ae19-4a86-95cf-91e6d54292cd)
+
 
 ### 4. 소개 및 시연 영상
 
