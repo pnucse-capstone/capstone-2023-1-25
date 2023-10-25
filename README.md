@@ -92,5 +92,8 @@ YOLO 모델(best.pt)의 경우 ultimate 의 모델 로딩 부분의 코드를 �
 
 이미지 프로세싱 서버 역할을 하는 ultimate.py의 실행을 위해서는 requirements.txt를 이용한 파이썬 패키지 설치가 필요합니다.
 
-
+dexi.pth 모델의 경우 해당 링크에서 다운로드 받을 수 있습니다.
+```
+https://drive.google.com/drive/folders/11TQxJjpBoZVKcQ0Pmb6GH3h0qQk4CnNe
+```
 
