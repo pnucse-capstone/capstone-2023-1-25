@@ -1,4 +1,4 @@
-![image](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/0e5321e5-4feb-47d0-8637-d53ae132b477)![image](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/cb6e4c39-2036-40e1-be56-d2cf9b43961b)![image](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/47d6fb15-0ea7-49b3-af53-b7af8948af50)![image](https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/8b35eead-13a3-42a3-9d5b-a4b78f81bb84)# OpenCV/CNN기반 페인팅 로봇 작업경로 생성
+# OpenCV/CNN기반 페인팅 로봇 작업경로 생성
 
 ## 1. 프로젝트 소개
 
