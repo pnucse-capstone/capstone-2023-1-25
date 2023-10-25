@@ -60,8 +60,25 @@
 
 본 프로젝트는 Ubuntu 20.04 버전에서 개발되었으며 함께 포함된 다음의 스크립트를 수행하여 
 관련 패키지들의 설치와 빌드를 수행할 수 있습니다.
+
+먼저 폴더를 다음과 같이 구성해야 하며, 빌드 된 Unity 시뮬레이터의 경우 아무 경로에 위치하여도 상관 없습니다.
 ```
 C:
- ├── User
-     ├──
+ └── User
+      └── 사용자명
+              └── UnityGraudate
+                        ├── checkpoints
+                        │   └── unet.pth
+                        ├── UnityStream2
+                        ├── PythonStream
+                        ├── ultimate.py
+                        ├── dexinedmodel.py
+                        ├── CRG.pyd
+                        └── CRG
+                             └── ...
+F:
+ └── graduate
+         └── train15
+                └── weights
+                        └── best.pt
 ```
