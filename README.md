@@ -47,7 +47,7 @@
 
 <br>
 
-### 3.3. 도장 로봇의 제어 신호 처리 과정
+### 3.3. 도장 로봇 유한 상태 머신
 
 <img width="480" alt="image" src="https://github.com/pnucse-capstone/capstone-2023-1-25/assets/48705640/72ea2614-d771-4025-aaeb-6b4b100e5cbe">
 
