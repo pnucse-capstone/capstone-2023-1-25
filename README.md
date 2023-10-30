@@ -54,7 +54,7 @@
 
 ## 4. 소개 및 시연 영상
 
-[![영상 넣을곳](https://img.youtube.com/vi/eXbTZrWUw1k/0.jpg)](https://www.youtube.com/watch?v=eXbTZrWUw1k)
+[![영상 넣을곳](https://img.youtube.com/vi/EavNrpU36Gg&t=526s/0.jpg)](https://www.youtube.com/watch?v=EavNrpU36Gg&t=526s)
 
 ## 5. 설치 및 사용법
 
